@@ -9,17 +9,17 @@ const App = () => {
   {
     id: nanoid(),
     text: "This is my first note!",
-    date: "02/14/2022"
+    date: "01/01/2025"
   },
   {
     id: nanoid(),
     text: "This is my second note!",
-    date: "02/10/2022"
+    date: "01/01/2025"
   },
   {
     id: nanoid(),
     text: "This is my third note!",
-    date: "02/12/2022"
+    date: "01/01/2025"
   },
 ]);
 
